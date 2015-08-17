@@ -15,6 +15,7 @@ One integer saying the number of pairs of numbers that have a diff K.
 Sample Input #00:
 
 5 2
+
 1 5 3 4 2
 
 Sample Output #00:
@@ -24,6 +25,7 @@ Sample Output #00:
 Sample Input #01:
 
 10 1
+
 363374326 364147530 61825163 1073065718 1281246024 1399469912 428047635 491595254 879792181 1069262793 
 
 Sample Output #01:
